@@ -1,5 +1,7 @@
 # Template: Standard Robot Framework
 
+Hello my name is Tomasz Rajda
+
 This is the simplest template to start from.
 
 - Get started from a simple task template in `tasks.robot`.
