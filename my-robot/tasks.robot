@@ -43,7 +43,7 @@ Order robots from RobotSpareBin Industries Inc
     END
 
     Create a ZIP file of receipt PDF files    ${pdf_folder}    ${pdfs}
-    Logout and Close Browser
+    [Teardown]    Logout and Close Browser
 
 
 *** Keywords ***
